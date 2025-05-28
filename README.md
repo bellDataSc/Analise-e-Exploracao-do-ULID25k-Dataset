@@ -1,4 +1,4 @@
-# 🚀 Análise e Exploração do ULID25k Dataset
+# Análise e Exploração do ULID25k Dataset
 
 Estou trazendo meu desenvolvimento em análises e competições no Kaggle para o GitHub. Esse dataset juntou duas coisas que gosto bastante, ***fotografia e dados***. 
 
@@ -8,59 +8,59 @@ Este notebook tem como objetivo explorar e analisar o ULID25k dataset (Unsplash 
 
 Obrigada Jakub Marcowski. https://www.kaggle.com/datasets/chubercik/ulid25k/code
 
-## ☁️ Objetivos do Notebook
+## Objetivos do Notebook
 
-**✅ Exploração Inicial:**
+**Exploração Inicial:**
 
 Carregar e inspecionar o dataset.
 
 Verificar a distribuição das imagens e suas características.
 
-**✅ Pré-processamento:**
+**Pré-processamento:**
 
 Preparar as imagens para análise ou treinamento de modelos de machine learning.
 
-**✅ Análise e Visualização:**
+**Análise e Visualização:**
 
 Realizar análises visuais e estatísticas das imagens.
 
 Identificar padrões ou características predominantes nas cenas naturais.
 
-**✅ Aplicações:**
+**Aplicações:**
 
 Utilizar o dataset para treinar modelos de classificação de imagens, detecção de objetos ou outras tarefas de visão computacional.
 
 Explorar técnicas de aprendizado profundo (deep learning) para extrair insights das imagens.
 
-## ☁️ Estrutura do Notebook
+## Estrutura do Notebook
 
-**✅ Configuração do Ambiente:**
+**Configuração do Ambiente:**
 
 Importação de bibliotecas essenciais (e.g., numpy, pandas, matplotlib, opencv, tensorflow/pytorch).
 
 Carregamento do dataset.
 
-**✅ Exploração dos Dados:**
+**Exploração dos Dados:**
 
 Visualização de exemplos de imagens.
 
 Análise de metadados (se disponíveis).
 
-**✅ Pré-processamento:**
+**Pré-processamento:**
 
 Redimensionamento, normalização ou aumento de dados (data augmentation).
 
-**✅ Análise e Modelagem:**
+**Análise e Modelagem:**
 
 Aplicação de técnicas de machine learning ou deep learning.
 
-**✅ Resultados e Conclusões:**
+**Resultados e Conclusões:**
 
 Discussão dos resultados obtidos.
 
 Sugestões para trabalhos futuros.
 
-**✅ Licenciamento e Uso**
+**Licenciamento e Uso**
 
 Este dataset é destinado exclusivamente para fins de pesquisa e educação. O uso das imagens deve seguir os termos da Unsplash License. Para mais informações, consulte: Unsplash License.
 
